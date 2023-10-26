@@ -1,0 +1,13 @@
+.container{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    border: 2px solid black;
+
+}
+
+ .container img{
+    width: 200px;
+    height: 150px;
+    
+}
